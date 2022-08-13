@@ -1,0 +1,12 @@
+.country-container {
+    background-color: rgba(192, 192, 192, 0.516);
+    margin: 30px;
+    border-radius: 10px;
+    border: 2px solid rgb(32, 44, 218);
+    padding: 10px;
+    display: flexbox;
+}
+
+.country-container img {
+    width: 200px;
+}
